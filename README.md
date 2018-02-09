@@ -21,4 +21,12 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+important gems
+
+* Pg 0.21.0
+* devise_auth_token 0.1.42
+* Rails 5.0.2
+* rack-cors 1.0.2
+
+The Frontend folder contains the angular portion of the project 
+
